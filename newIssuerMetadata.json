@@ -1,0 +1,8 @@
+{
+  "name": "DTS",
+  "description": "ID Provider DTS",
+  "url": "https://www.digitaltrustsolutions.nl/",
+  "icon": {
+    "url": "https://dts-byuksel.github.io/demo/dts-logo-highres.png"
+  }
+}
